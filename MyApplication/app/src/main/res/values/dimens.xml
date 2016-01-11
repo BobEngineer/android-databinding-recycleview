@@ -3,4 +3,11 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+
+    <!--Default image size-->
+    <dimen name="image_size_1">48dp</dimen>
+    <dimen name="image_size_2">56dp</dimen>
+    <dimen name="image_size_3">64dp</dimen>
+    <dimen name="image_size_4">72dp</dimen>
+
 </resources>
